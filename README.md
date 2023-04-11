@@ -1,4 +1,4 @@
-# SansFinder - [Live Release](sansfinder.com)
+# SansFinder - [Live Release](www.sansfinder.com)
 
 Sansfinder is a one-stop web application designed to help Sansevieria collectors find plants with ease.
 
