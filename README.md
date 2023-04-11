@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# SansFinder - [Live Release](sansfinder.com)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sansfinder is a one-stop web application designed to help Sansevieria collectors find plants with ease.
 
-## Available Scripts
+One of the main problems amongst Sanseveria (snake plants) collectors is that it can be difficult to browse dozens of websites, often with terrible user interfaces, just to find the plant you're looking for, and then you have to compare prices. This takes a great deal of time. SansFinder solves this by putting everything in one place, with an easy to use interface, and with 3 main sorting options. 
 
-In the project directory, you can run:
+SansFinder is powered by a Python + Algolia Search backend that scouts the web for hundreds of Sansevieria listings and aggregates them into one database. The up-to-date data is then sent to the Algolia Search service so that users can take advantage of relevant search results.
 
-### `npm start`
+## Usage
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In order to use SansFinder, all you need to do is type your search query, such as "Sansevieria Masoniana" or "Whale Fin," and SansFinder will understand what you're looking for and show you all the relevant results.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To browse all the available plants, just click on the search icon without typing a query.
 
-### `npm test`
+## Technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+SansFinder was a challening application to build because, as a Frontend Web Developer, I also had to create the backend for SansFinder in Python and then use Docker to easily deploy it. Thankfully, the process was straightforward and I ended up with an understanding of how powerful and useful Docker can be.
 
-### `npm run build`
+Here is a list of all the technologies used to create SansFinder:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frontend
+* React Js
+* JavaScript
+* HTML / CSS
+* Tailwind CSS
+* Figma
+* Canva
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Backend
+* Python
+* Docker
+* Algolia API Client
+* Digital Ocean
+  * App Platform
+  * Container Registry
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing & Feedback
 
-### `npm run eject`
+If you'd like to contribute to Sansfinder or leave some feedback, feel free to reach out to me at jhdl.ruben@gmail.com.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is proprietary and all rights are reserved by Ruben Henriquez (@rubenhz). No part of this project may be copied, modified, or distributed without the express written consent of Ruben Henriquez (@rubenhz).
