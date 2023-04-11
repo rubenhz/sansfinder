@@ -10,7 +10,7 @@ export default function About() {
               <div className="w-full lg:w-1/2 lg:mr-8">
                 <h1 className="mb-4 text-2xl">About Sansfinder</h1>
                 <p className="text-gray-800 text-lg mb-6">
-                  Sansfinder is a unique search engine that helps users find a variety of sansevierias quickly. With this tool, plant enthusiasts can easily browse and compare prices from just once place, saving time and effort. Whether you're an experienced plant collector or new to the hobby, Sansfinder is the ideal resource for finding the perfect sansevieria for your collection.
+                  Sansfinder is a unique search engine that helps users find a variety of sansevierias quickly. With this tool, plant enthusiasts can easily browse and compare prices from just one place, saving time and effort. Whether you're an experienced plant collector or new to the hobby, Sansfinder is the ideal resource for finding the perfect sansevieria for your collection.
                 </p>
               </div>
               <figure className="w-full h-[650px] lg:w-1/2">
