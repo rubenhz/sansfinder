@@ -1,0 +1,836 @@
+{
+    "hits": [
+      {
+        "timestamp": "2023-04-04T16:24:58.409933",
+        "name": "Sansevieria Sweet Celery",
+        "price": 25,
+        "vendor": "Traveling Roots - Etsy",
+        "img": "https://i.etsystatic.com/21679026/r/il/822f9f/4785341584/il_340x270.4785341584_289w.jpg",
+        "objectID": "fffec200-3d00-44e6-9121-d94594ae4018",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:58.409933",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria Sweet Celery",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "25.0",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Traveling Roots - Etsy",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/21679026/r/il/822f9f/4785341584/il_340x270.4785341584_289w.jpg",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:58.409933",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria Sweet Celery",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "25.0",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Traveling Roots - Etsy",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/21679026/r/il/822f9f/4785341584/il_340x270.4785341584_289w.jpg",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 485,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "timestamp": "2023-04-04T16:24:49.110030",
+        "name": "Sansevieria gracilis one-gallon pots",
+        "price": 20,
+        "vendor": "Arid Lands Wholesale",
+        "img": "https://aridlandswholesale.com/oscommerce/includes/modules/kiss_image_thumbnailer/thumbs/150x150_Sansevieria-gracilis.g.jpg",
+        "objectID": "ffd4ab16-69c2-45f3-8661-318732fa636f",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:49.110030",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria gracilis one-gallon pots",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "20.0",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Arid Lands Wholesale",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://aridlandswholesale.com/oscommerce/includes/modules/kiss_image_thumbnailer/thumbs/150x150_Sansevieria-gracilis.g.jpg",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:49.110030",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria gracilis one-gallon pots",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "20.0",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Arid Lands Wholesale",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://aridlandswholesale.com/oscommerce/includes/modules/kiss_image_thumbnailer/thumbs/150x150_Sansevieria-gracilis.g.jpg",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 484,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "timestamp": "2023-04-04T16:24:49.104976",
+        "name": "Sansevieria trifasciata cv ‘Black Coral' 8-inch pots",
+        "price": 45,
+        "vendor": "Arid Lands Wholesale",
+        "img": "https://aridlandswholesale.com/oscommerce/includes/modules/kiss_image_thumbnailer/thumbs/150x150_Sansevieria-trifasciata-Black-Coral.8.jpg",
+        "objectID": "ffd49af8-c3cc-44fe-94ae-21003395a115",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:49.104976",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria trifasciata cv ‘Black Coral' 8-inch pots",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "45.0",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Arid Lands Wholesale",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://aridlandswholesale.com/oscommerce/includes/modules/kiss_image_thumbnailer/thumbs/150x150_Sansevieria-trifasciata-Black-Coral.8.jpg",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:49.104976",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria trifasciata cv ‘Black Coral' 8-inch pots",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "45.0",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Arid Lands Wholesale",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://aridlandswholesale.com/oscommerce/includes/modules/kiss_image_thumbnailer/thumbs/150x150_Sansevieria-trifasciata-Black-Coral.8.jpg",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 483,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "timestamp": "2023-04-04T16:25:08.336652",
+        "name": "Sansevieria Pinguicula (G78) - Rare Import",
+        "price": 26.99,
+        "vendor": "Succulent Cabin - Etsy",
+        "img": "https://i.etsystatic.com/18433768/c/2250/1788/0/403/il/24998b/4115850714/il_340x270.4115850714_qj1i.jpg",
+        "objectID": "ff15e736-039e-4330-ab84-3ddd927b77d7",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:08.336652",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria Pinguicula (G78) - Rare Import",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "26.99",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Succulent Cabin - Etsy",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/18433768/c/2250/1788/0/403/il/24998b/4115850714/il_340x270.4115850714_qj1i.jpg",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:08.336652",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria Pinguicula (G78) - Rare Import",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "26.99",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Succulent Cabin - Etsy",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/18433768/c/2250/1788/0/403/il/24998b/4115850714/il_340x270.4115850714_qj1i.jpg",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 482,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "timestamp": "2023-04-04T16:24:49.109476",
+        "name": "Sansevieria fasciata 2-gallon pots",
+        "price": 40,
+        "vendor": "Arid Lands Wholesale",
+        "img": "https://aridlandswholesale.com/oscommerce/includes/modules/kiss_image_thumbnailer/thumbs/150x150_Sansevieria,fasciata.2g.jpg",
+        "objectID": "fe9b2721-6264-466d-bb1a-bec5c11604dd",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:49.109476",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria fasciata 2-gallon pots",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "40.0",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Arid Lands Wholesale",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://aridlandswholesale.com/oscommerce/includes/modules/kiss_image_thumbnailer/thumbs/150x150_Sansevieria,fasciata.2g.jpg",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:49.109476",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria fasciata 2-gallon pots",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "40.0",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Arid Lands Wholesale",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://aridlandswholesale.com/oscommerce/includes/modules/kiss_image_thumbnailer/thumbs/150x150_Sansevieria,fasciata.2g.jpg",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 481,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "timestamp": "2023-04-04T16:25:08.309050",
+        "name": "Sansevieria Stella Variegated (L3) - Very Rare Import",
+        "price": 39.09,
+        "vendor": "Succulent Cabin - Etsy",
+        "img": "https://i.etsystatic.com/18433768/c/2250/1788/0/269/il/a420ce/4291659683/il_340x270.4291659683_guzx.jpg",
+        "objectID": "fe1f4288-c4dc-4adb-9853-a7d4d4b647be",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:08.309050",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria Stella Variegated (L3) - Very Rare Import",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "39.09",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Succulent Cabin - Etsy",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/18433768/c/2250/1788/0/269/il/a420ce/4291659683/il_340x270.4291659683_guzx.jpg",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:08.309050",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria Stella Variegated (L3) - Very Rare Import",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "39.09",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Succulent Cabin - Etsy",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/18433768/c/2250/1788/0/269/il/a420ce/4291659683/il_340x270.4291659683_guzx.jpg",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 480,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "timestamp": "2023-04-04T16:25:17.225615",
+        "name": "Sansevieria longiflora variegata",
+        "price": 15,
+        "vendor": "Glasshouse Works",
+        "img": "https://www.glasshouseworks.com/image/cache/data/images17/Sansevieria_longiflora_variegata3-161x130.jpg",
+        "objectID": "fd1367a9-a592-41de-99e2-69d64830d449",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:17.225615",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria longiflora variegata",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "15.0",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Glasshouse Works",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://www.glasshouseworks.com/image/cache/data/images17/Sansevieria_longiflora_variegata3-161x130.jpg",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:17.225615",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria longiflora variegata",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "15.0",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Glasshouse Works",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://www.glasshouseworks.com/image/cache/data/images17/Sansevieria_longiflora_variegata3-161x130.jpg",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 479,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "timestamp": "2023-04-04T16:25:08.312409",
+        "name": "Sansevieria Dragon Blue (F2) - Very Rare Import",
+        "price": 33.99,
+        "vendor": "Succulent Cabin - Etsy",
+        "img": "https://i.etsystatic.com/18433768/r/il/d3a7bd/4182620170/il_340x270.4182620170_hdvq.jpg",
+        "objectID": "fce81bfe-8bd0-4384-a391-533c7dbb32b4",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:08.312409",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria Dragon Blue (F2) - Very Rare Import",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "33.99",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Succulent Cabin - Etsy",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/18433768/r/il/d3a7bd/4182620170/il_340x270.4182620170_hdvq.jpg",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:08.312409",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria Dragon Blue (F2) - Very Rare Import",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "33.99",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Succulent Cabin - Etsy",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/18433768/r/il/d3a7bd/4182620170/il_340x270.4182620170_hdvq.jpg",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 478,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "timestamp": "2023-04-04T16:25:08.250825",
+        "name": "Sansevieria Golden Wendy (R6) - Rare Import",
+        "price": 53.99,
+        "vendor": "Succulent Cabin - Etsy",
+        "img": "https://i.etsystatic.com/18433768/r/il/6b4fad/4758205218/il_340x270.4758205218_oq0q.jpg",
+        "objectID": "fccc6148-7e2e-45f7-9a1f-6fad3c79b0e3",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:08.250825",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria Golden Wendy (R6) - Rare Import",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "53.99",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Succulent Cabin - Etsy",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/18433768/r/il/6b4fad/4758205218/il_340x270.4758205218_oq0q.jpg",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:25:08.250825",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria Golden Wendy (R6) - Rare Import",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "53.99",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Succulent Cabin - Etsy",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://i.etsystatic.com/18433768/r/il/6b4fad/4758205218/il_340x270.4758205218_oq0q.jpg",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 477,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      },
+      {
+        "timestamp": "2023-04-04T16:24:41.099818",
+        "name": "Sansevieria Sp India 'Tiger Blue' 1 gallon",
+        "price": 15,
+        "vendor": "Paradise Found Nursery",
+        "img": "https://cdn.shopify.com/s/files/1/1370/5353/products/sansevieria-sp-india-tiger-blue-1-gallon-842229_480x480.jpg?v=1665007394",
+        "objectID": "fc35e54f-e37a-45fc-a4d9-62c4f62bbbd6",
+        "_snippetResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:41.099818",
+            "matchLevel": "none"
+          },
+          "name": {
+            "value": "Sansevieria Sp India 'Tiger Blue' 1 gallon",
+            "matchLevel": "none"
+          },
+          "price": {
+            "value": "15.0",
+            "matchLevel": "none"
+          },
+          "vendor": {
+            "value": "Paradise Found Nursery",
+            "matchLevel": "none"
+          },
+          "img": {
+            "value": "https://cdn.shopify.com/s/files/1/1370/5353/products/sansevieria-sp-india-tiger-blue-1-gallon-842229_480x480.jpg …",
+            "matchLevel": "none"
+          }
+        },
+        "_highlightResult": {
+          "timestamp": {
+            "value": "2023-04-04T16:24:41.099818",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "name": {
+            "value": "Sansevieria Sp India 'Tiger Blue' 1 gallon",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "price": {
+            "value": "15.0",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "vendor": {
+            "value": "Paradise Found Nursery",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "img": {
+            "value": "https://cdn.shopify.com/s/files/1/1370/5353/products/sansevieria-sp-india-tiger-blue-1-gallon-842229_480x480.jpg?v=1665007394",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "_rankingInfo": {
+          "nbTypos": 0,
+          "firstMatchedWord": 0,
+          "proximityDistance": 0,
+          "userScore": 476,
+          "geoDistance": 0,
+          "geoPrecision": 0,
+          "nbExactWords": 0,
+          "words": 0,
+          "filters": 0
+        }
+      }
+    ],
+    "nbHits": 486,
+    "page": 0,
+    "nbPages": 49,
+    "hitsPerPage": 10,
+    "facets": {},
+    "exhaustiveFacetsCount": true,
+    "exhaustiveNbHits": true,
+    "exhaustiveTypo": true,
+    "exhaustive": {
+      "facetsCount": true,
+      "nbHits": true,
+      "typo": true
+    },
+    "query": "",
+    "params": "analytics=false&attributesToRetrieve=%5B%22*%22%5D&attributesToSnippet=%5B%22*%3A20%22%5D&enableABTest=false&explain=%5B%22*%22%5D&facets=%5B%22*%22%5D&getRankingInfo=true&highlightPostTag=%3C%2Fais-highlight-0%3E&highlightPreTag=%3Cais-highlight-0%3E&hitsPerPage=10&page=0&query=&responseFields=%5B%22*%22%5D&snippetEllipsisText=%E2%80%A6&tagFilters=",
+    "index": "dev_SANSEVIERIA",
+    "serverUsed": "c25-use-3.algolia.net",
+    "indexUsed": "dev_SANSEVIERIA",
+    "parsedQuery": "",
+    "timeoutCounts": false,
+    "timeoutHits": false,
+    "explain": {
+      "match": {
+        "alternatives": []
+      },
+      "params": {
+        "client": {
+          "query": "",
+          "analytics": false,
+          "page": 0,
+          "hitsPerPage": 10,
+          "attributesToRetrieve": [
+            "*"
+          ],
+          "attributesToSnippet": [
+            "*:20"
+          ],
+          "getRankingInfo": true,
+          "highlightPreTag": "<em>",
+          "highlightPostTag": "</em>",
+          "snippetEllipsisText": "…",
+          "tagFilters": [],
+          "facets": [
+            "*"
+          ],
+          "responseFields": [
+            "exhaustive",
+            "exhaustiveFacetValues",
+            "facets_stats",
+            "extensions",
+            "renderingContent",
+            "userData",
+            "aroundLatLng",
+            "queryAfterRemoval",
+            "exhaustiveFacetsCount",
+            "length",
+            "params",
+            "processingTimingsMS",
+            "facets",
+            "offset",
+            "hitsPerPage",
+            "automaticRadius",
+            "processingTimeMS",
+            "nbPages",
+            "page",
+            "query",
+            "serverTimeMS",
+            "index",
+            "exhaustiveTypo",
+            "nbHits",
+            "exhaustiveNbHits",
+            "hits"
+          ],
+          "enableABTest": false,
+          "explain": true
+        },
+        "apiKey": {},
+        "abTest": {},
+        "rules": {},
+        "final": {
+          "query": "",
+          "analytics": false,
+          "page": 0,
+          "hitsPerPage": 10,
+          "attributesToRetrieve": [
+            "*"
+          ],
+          "attributesToSnippet": [
+            "*:20"
+          ],
+          "getRankingInfo": true,
+          "highlightPreTag": "<em>",
+          "highlightPostTag": "</em>",
+          "snippetEllipsisText": "…",
+          "tagFilters": [],
+          "facets": [
+            "*"
+          ],
+          "responseFields": [
+            "exhaustive",
+            "exhaustiveFacetValues",
+            "facets_stats",
+            "extensions",
+            "renderingContent",
+            "userData",
+            "aroundLatLng",
+            "queryAfterRemoval",
+            "exhaustiveFacetsCount",
+            "length",
+            "params",
+            "processingTimingsMS",
+            "facets",
+            "offset",
+            "hitsPerPage",
+            "automaticRadius",
+            "processingTimeMS",
+            "nbPages",
+            "page",
+            "query",
+            "serverTimeMS",
+            "index",
+            "exhaustiveTypo",
+            "nbHits",
+            "exhaustiveNbHits",
+            "hits"
+          ],
+          "enableABTest": false,
+          "explain": true
+        }
+      }
+    },
+    "renderingContent": {},
+    "processingTimeMS": 3,
+    "processingTimingsMS": {
+      "afterFetch": {
+        "format": {
+          "total": 1
+        },
+        "total": 1
+      },
+      "getIdx": {
+        "load": {
+          "total": 1
+        },
+        "total": 1
+      },
+      "request": {
+        "roundTrip": 57
+      },
+      "total": 3
+    },
+    "serverTimeMS": 3
+}
