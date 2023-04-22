@@ -14,8 +14,6 @@ To browse all the available plants, just click on the search icon without typing
 
 ## Technologies
 
-SansFinder was a challening application to build because, as a Frontend Web Developer, I also had to create the backend for SansFinder in Python and then use Docker to easily deploy it. Thankfully, the process was straightforward and I ended up with an understanding of how powerful and useful Docker can be.
-
 Here is a list of all the technologies used to create SansFinder:
 
 ### Frontend
